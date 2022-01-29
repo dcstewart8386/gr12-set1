@@ -1,3 +1,3 @@
-// Introducing comments and output in JavaScript!
+// Introducing comments and output in JavaScript
 console.log("Hello World!")
 
